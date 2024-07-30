@@ -1,0 +1,13 @@
+
+.example {
+    width: 200px;
+    border: 20px solid limegreen;
+    background: black;
+}
+.content {
+    /* box-sizing: border-box; */
+    padding: 50px;
+    width: 100%;
+    border: 2px solid red; 
+    background: wheat;
+}

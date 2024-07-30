@@ -1,0 +1,35 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 6rem;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+    padding: 1rem 1rem;
+    max-width: 80%;
+    background: red;
+    background: blue;
+    background: wheat;
+    margin: auto;
+    font-size: 1.8rem;
+    line-height: 1.1;
+}
+
+.subtitle {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3rem;
+    /* margin: 0; */
+}
+
+.content {
+    max-width: 50%;
+    margin: 0 auto;
+    width: 90%;
+}
