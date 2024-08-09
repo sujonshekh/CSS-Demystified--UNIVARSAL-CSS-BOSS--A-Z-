@@ -53,9 +53,10 @@
     "button button"
     "name name"
     "role role"
-    "bio bio"
+    
     "social social"
-    "img img";
+    "img img"
+    "bio bio";
   gap: 0.5em;
   box-shadow: var(--shadow);
   border-radius: var(--border-radius);
