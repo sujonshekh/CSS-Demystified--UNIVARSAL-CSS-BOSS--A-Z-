@@ -131,3 +131,47 @@ h1 span {
     }
 }
 
+/* Individuals Sections */
+
+.cta {
+    background-image: url(../Lesson-58__Magic_Website/assets/cta-bg.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: var(--box-shadow);
+}
+
+/* .join-now li::before {
+    content: '';
+    background: var(--clr-accent-400);
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    transform: translate(-10%, 60%);
+    z-index: -1;
+    position: absolute;
+} */
+
+.join-now li::before {
+    content: '';
+    background: var(--clr-accent-400);
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    transform: translate(-.5rem, -.5rem);
+    z-index: -1;
+    position: absolute;
+}
+
+/* .join-now li::before {
+    content: '';
+    background: var(--clr-accent-400);
+    display: block;
+    width: 5rem;
+    height: 5rem;
+    transform: translate(3rem, -.5rem);
+    z-index: -1;
+    position: absolute;
+} */
