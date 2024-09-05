@@ -145,6 +145,10 @@ h1 span {
     font-weight: 700;
 }
 
+.a-center {
+    align-items: center;
+}
+
 .btn {
     display: inline-block;
     text-decoration: none;
@@ -178,6 +182,19 @@ h1 span {
 }
 
 /* Individuals Sections */
+
+.hero img {
+    tra
+}
+
+
+@media (min-width: 40em) {
+        .hero {
+            padding: 0;
+        }
+}
+
+
 
 .cta {
     background-image: url(../Lesson-58__Magic_Website/assets/cta-bg.jpg);
